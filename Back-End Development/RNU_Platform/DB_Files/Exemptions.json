@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f254"
+  },
+  "exemptionID": 201,
+  "description": "Criancas ate 12 anos de idade, inclusive",
+  "prooveCode": 201,
+  "prooveDescription": "Comprovativo passado pelo Instituto Portugues de Sangue que comprove que o utente deu pelo menos 2 d�divas nos �ltimos 12 meses"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f255"
+  },
+  "exemptionID": 1101,
+  "description": "Dadores benevolos de sangue - Nao Benemeritos",
+  "prooveCode": 1101,
+  "prooveDescription": "Comprovativo passado pelo Instituto Portugues de Sangue que comprove \nque o utente deu pelo menos 2 dadivas nos ultimos 12 meses"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f256"
+  },
+  "exemptionID": 1002,
+  "description": "Utentes com grau de incapacidade de 60% (atestado anterior ao Despacho n� 264327/09)",
+  "prooveCode": 1002,
+  "prooveDescription": "Apresentam outro atestado medico de incapacidade diferente do aprovado \npelo despacho nº26432/2009 (valido até 31 de Dezembro)\n"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f257"
+  },
+  "exemptionID": 1105,
+  "description": " Dadores benevolos de sangue - Benemeritos",
+  "prooveCode": 1105,
+  "prooveDescription": "Comprovativo passado pelo Instituto Portugues de Sangue que comprove \nque o utente deu pelo menos 30 dadivas de sangue na vida.\n"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f258"
+  },
+  "exemptionID": 1106,
+  "description": "Dadores vivos de celulas, tecidos e orgaos",
+  "prooveCode": 1106,
+  "prooveDescription": "A isençao decorre de apresentaçao, junto dos serviços do Agrupamento de \nCentro de Saude respetivo, de declaraçao de dador efetivo emitida pelo Instituto Portugues \ndo Sangue e da Transplantaçao, I. P."
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f259"
+  },
+  "exemptionID": 1997,
+  "description": "Gravidas e parturientes",
+  "prooveCode": 1997,
+  "prooveDescription": "Declaraçao Medica que ateste a situaçao"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f25a"
+  },
+  "exemptionID": 1003,
+  "description": "Utentes com grau de incapacidade de 60% (atestado de acordo com o Despacho n.� 26432/2009)",
+  "prooveCode": 1003,
+  "prooveDescription": "Atestado medico aprovado pelo Despacho nº26432/2009\n"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f25b"
+  },
+  "exemptionID": "0603",
+  "description": "Desempregados com inscricao valida no Centro de Emprego",
+  "prooveCode": 603,
+  "prooveDescription": " impresso proprio Instituto do Emprego e Formaçao Profissional/IP onde \nconste a situaçao de desempregado e o valor mensal que usufrui o qual não pode ser \nsuperior a (1,5 IAS)\n"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f25c"
+  },
+  "exemptionID": 604,
+  "description": "Conjuge e dependentes dos beneficiarios do codigo 0603",
+  "prooveCode": 604,
+  "prooveDescription": "Deve constar na declaraçao id 603 o nome do Conjuge e dependentes. \nQuando na respetiva declaraçao nao constar o agregado familiar, o utente desempregado \ndevera proceder conforme as indicaçoes da Circular Informativa nº1/2014/DPS/ACSS de \n03/01) pág.8."
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f25d"
+  },
+  "exemptionID": 1301,
+  "description": "Militares/Ex-militares das forcas Armadas com Incapacidade permanente devidamente comprovada",
+  "prooveCode": 1301,
+  "prooveDescription": "Cartao de Deficiente das Forças Armadas (FA); Cartao de pensionista de \ninvalidez das FA; Cartao de Grande deficiente das Forças Armadas e de Grande Deficiente do \nServiço Efetivo Normal."
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f25e"
+  },
+  "exemptionID": 1801,
+  "description": "Doentes transplantados de orgaos",
+  "prooveCode": 1801,
+  "prooveDescription": "Declaraçao emitida pelos serviços competentes das instituiçoes \nhospitalares autorizadas para o exercicio da atividade de transplantaçao. Esta Isenção não \ntem prazo de validade"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f25f"
+  },
+  "exemptionID": 1004,
+  "description": "Utentes com grau de incapacidade de 60% - definitivo",
+  "prooveCode": 1004,
+  "prooveDescription": "Outro atestado medico Incapacidade Multiuso (Junta Medica)"
+},{
+  "_id": {
+    "$oid": "63ae25e74e5491c74a93f260"
+  },
+  "exemptionID": 1005,
+  "description": "Utentes entes com grau de incapacidade de 60% - definitivo (atestado de acordo com o Despacho n.� 26432/2009)",
+  "prooveCode": 1005,
+  "prooveDescription": "Atestado de acordo com o Despacho n.º 26432/2009"
+}]

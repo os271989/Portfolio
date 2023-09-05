@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "63596069da56bbffd64c7903"
+  },
+  "gender": "M",
+  "birthday": "1989-06-27",
+  "idType": 1,
+  "idNb": "156889665",
+  "idRNU": 145889663,
+  "address": "Rua do Olheiro, n370",
+  "cp": "4750-429",
+  "nationality": "UK",
+  "naturality": "FR",
+  "completName": "Oscar Lionel Gomes Araújo",
+  "candNb": 156985,
+  "nif": 117162744
+},{
+  "_id": {
+    "$oid": "6359610bda56bbffd64c7905"
+  },
+  "gender": "M",
+  "birthday": "1991-10-30",
+  "idType": 1,
+  "idNb": "156889765",
+  "idRNU": 145889675,
+  "address": "Rua do Galho, n158",
+  "cp": "4750-437",
+  "nationality": "PT",
+  "naturality": "PT",
+  "completName": "Rui André Silva Lopes",
+  "candNb": 158085,
+  "nif": 272845973
+},{
+  "_id": {
+    "$oid": "63596314da56bbffd64c7907"
+  },
+  "gender": "M",
+  "birthday": "1988-08-08",
+  "idType": 3,
+  "idNb": "CS265436",
+  "idRNU": 145889696,
+  "address": "Travessa da marinha, lote5, n18",
+  "cp": "4732-178",
+  "nationality": "ES",
+  "naturality": "ES",
+  "completName": "Elson Filipe Lobo Simões",
+  "candNb": 158108,
+  "nif": 296969036
+}]

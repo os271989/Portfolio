@@ -1,0 +1,865 @@
+[{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c44"
+  },
+  "name": "USP Barcelos e Esposende",
+  "type": "USP | Unidade de Saúde Pública",
+  "ars": "ars Norte",
+  "acesCode": 10007,
+  "cs": "",
+  "id": 6145,
+  "code_UF": 1030220,
+  "street": "Rua de Ninães, 19",
+  "cp": "4755-069",
+  "locality": "Barcelinhos",
+  "tel": 253802720,
+  "fax": 253802721,
+  "email": "usp.cavado3@arsnorte.min-saude.pt",
+  "parish": "Barcelinhos",
+  "parishCode": 30213,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.521269,
+    "longitude": -8.617101
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c45"
+  },
+  "name": "UcsP Carapeços",
+  "type": "UcsP | Unidade de Cuidados de Saúde Personalizados",
+  "ars": "ars Norte",
+  "acesCode": 10007,
+  "cs": "Centro de Saúde Barcelos | 1030200",
+  "id": 5355,
+  "code_UF": 1030204,
+  "street": "Av. Costa e Silva, 92",
+  "cp": "4750-375",
+  "locality": "Carapeços",
+  "tel": 253881288,
+  "fax": 253883842,
+  "email": "ucsp.carapecos@arsnorte.min-saude.pt",
+  "parish": "Carapeços",
+  "parishCode": 30218,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.58337,
+    "longitude": -8.60859
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c46"
+  },
+  "name": "USF Cávado Saúde",
+  "type": "USF-A | USF modelo A*",
+  "ars": "ars Norte",
+  "acesCode": 10007,
+  "cs": "Centro de Saúde Barcelos | 1030200",
+  "id": 16706,
+  "code_UF": 1030275,
+  "street": "Rua Divino Salvador, 1121",
+  "cp": "4750-511",
+  "locality": "Lama-Barcelos",
+  "tel": 253849420,
+  "fax": 253849421,
+  "email": "usf.cavadosaude@arsnorte.min-saude.pt",
+  "parish": "Lama",
+  "parishCode": 30242,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.56332,
+    "longitude": -8.547525
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c47"
+  },
+  "name": "USF Alcaides de Faria",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10007,
+  "cs": "Centro de Saúde Barcelinhos | 1031900",
+  "id": 16798,
+  "code_UF": 1031971,
+  "street": "Rua Rodrigo Pereira Pimenta de Castro, 60",
+  "cp": "4755-558",
+  "locality": "Vila Seca BCL",
+  "tel": 253859290,
+  "fax": 253859291,
+  "email": "usf.alcaidesfaria@arsnorte.min-saude.pt",
+  "parish": "Vila Seca",
+  "parishCode": 30287,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.500994,
+    "longitude": -8.673982
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c48"
+  },
+  "name": "UcsP Barcelos / Alheira",
+  "type": "UcsP | Unidade de Cuidados de Saúde Personalizados",
+  "ars": "ars Norte",
+  "acesCode": 10007,
+  "cs": "Centro de Saúde Barcelos | 1030200",
+  "id": 7966,
+  "code_UF": 1030203,
+  "street": "Rua Dr. Abel Varzim",
+  "cp": "4750-253",
+  "locality": "Barcelos",
+  "tel": 253802915,
+  "fax": 253808301,
+  "email": "ucsp.barcelos@arsnorte.min-saude.pt",
+  "parish": "União das Freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro)",
+  "parishCode": 30293,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.5343,
+    "longitude": -8.623173
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c49"
+  },
+  "name": "URAP Barcelos e Esposende",
+  "type": "URAP | Unidade de Recursos Assistenciais Partilhados",
+  "ars": "ars Norte",
+  "acesCode": 10007,
+  "cs": "",
+  "id": 1867,
+  "code_UF": 1030279,
+  "street": "Rua Dr. Abel Varzim",
+  "cp": "4750-253",
+  "locality": "Barcelos",
+  "tel": 253808319,
+  "fax": 253808301,
+  "email": "urap.cavado3@arsnorte.min-saude.pt",
+  "parish": "União das Freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro)",
+  "parishCode": 30293,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.5343,
+    "longitude": -8.623173
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c4a"
+  },
+  "name": "UcsP Adaúfe",
+  "type": "UcsP | Unidade de Cuidados de Saúde Personalizados",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga III | 1031500",
+  "id": 4337,
+  "code_UF": 1031502,
+  "street": "Av. Imaculada Conceição, nº. 170 -B",
+  "cp": "4710-820",
+  "locality": "Adaúfe",
+  "tel": 253675178,
+  "fax": 253284185,
+  "email": "ucsp.adaufe@arsnorte.min-saude.pt",
+  "parish": "Adaúfe",
+  "parishCode": 30301,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.577537,
+    "longitude": -8.40973
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c4b"
+  },
+  "name": "USF Esporões",
+  "type": "USF-A | USF modelo A*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 28122,
+  "code_UF": 1030377,
+  "street": "Rua das Granjas",
+  "cp": "4705-475",
+  "locality": "Esporões",
+  "tel": 253689220,
+  "fax": 253689221,
+  "email": "usf.esporoes@arsnorte.min-saude.pt",
+  "parish": "Esporões",
+  "parishCode": 30313,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.508449,
+    "longitude": -8.422632
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c4c"
+  },
+  "name": "USF Gualtar",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 16718,
+  "code_UF": 1030372,
+  "street": "Rua João Nascimento dos Santos - Gualtar",
+  "cp": "4710-078",
+  "locality": "Braga",
+  "tel": 253603310,
+  "fax": "",
+  "email": "usf.gualtar@arsnorte.min-saude.pt",
+  "parish": "Gualtar",
+  "parishCode": 30319,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.5684,
+    "longitude": -8.386684
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c4d"
+  },
+  "name": "USF Ruães",
+  "type": "USF-A | USF modelo A*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga III | 1031500",
+  "id": 16780,
+  "code_UF": 1031573,
+  "street": "Rua de Ruães, 19",
+  "cp": "4700-565",
+  "locality": "Mire de Tibães",
+  "tel": 253602490,
+  "fax": 253602491,
+  "email": "usf.streetes@arsnorte.min-saude.pt",
+  "parish": "Mire de Tibães",
+  "parishCode": 30325,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.575187,
+    "longitude": -8.450903
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c4e"
+  },
+  "name": "UCC Braga Saudável",
+  "type": "UCC | Unidade de Cuidados na Comunidade",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga III | 1031500",
+  "id": 16776,
+  "code_UF": 1031555,
+  "street": "Rua Padre António Freire, 7",
+  "cp": "4700-006",
+  "locality": "Braga",
+  "tel": 253201585,
+  "fax": 253201589,
+  "email": "ucc.bragasaudavel@arsnorte.min-saude.pt",
+  "parish": "São Vicente",
+  "parishCode": 30349,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.559641,
+    "longitude": -8.421896
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c4f"
+  },
+  "name": "USF 7 Fontes",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 30868,
+  "code_UF": 1030375,
+  "street": "Rua Padre António Freire, 7 - 2º",
+  "cp": "4700-006",
+  "locality": "Braga",
+  "tel": 253201587,
+  "fax": 253201584,
+  "email": "usf.setefontes@arsnorte.min-saude.pt",
+  "parish": "São Vicente",
+  "parishCode": 30349,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.559641,
+    "longitude": -8.421896
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c50"
+  },
+  "name": "USF Braga Norte",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga III | 1031500",
+  "id": 30862,
+  "code_UF": 1031572,
+  "street": "Rua Padre António Freire, 7 - 1º",
+  "cp": "4700-006",
+  "locality": "Braga",
+  "tel": 253201586,
+  "fax": 253201589,
+  "email": "usf.braganorte@arsnorte.min-saude.pt",
+  "parish": "São Vicente",
+  "parishCode": 30349,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.559641,
+    "longitude": -8.421896
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c51"
+  },
+  "name": "UCC Assucena Lopes Teixeira",
+  "type": "UCC | Unidade de Cuidados na Comunidade",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 16713,
+  "code_UF": 1030355,
+  "street": "Rua Martins Sarmento, s/n - São Victor",
+  "cp": "4710-406",
+  "locality": "Braga",
+  "tel": 253600580,
+  "fax": "",
+  "email": "ucc.alopesteixeira@arsnorte.min-saude.pt",
+  "parish": "São Victor",
+  "parishCode": 30351,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.551484,
+    "longitude": -8.412198
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c52"
+  },
+  "name": "USF São Victor",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 39959,
+  "code_UF": 1030371,
+  "street": "Rua D. Pedro V, 10",
+  "cp": "4710-374",
+  "locality": "Braga",
+  "tel": 253600590,
+  "fax": 253600591,
+  "email": "usf.saovitor@arsnorte.min-saude.pt",
+  "parish": "São Victor",
+  "parishCode": 30351,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.548331,
+    "longitude": -8.421298
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c53"
+  },
+  "name": "USP Braga",
+  "type": "USP | Unidade de Saúde Pública",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "",
+  "id": 6146,
+  "code_UF": 1030320,
+  "street": "Praceta do Vilar",
+  "cp": "4710-453",
+  "locality": "Braga",
+  "tel": 253208260,
+  "fax": 253208261,
+  "email": "usp.braga@arsnorte.min-saude.pt",
+  "parish": "Braga (São Victor)",
+  "parishCode": 30351,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.558415,
+    "longitude": -8.398858
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c54"
+  },
+  "name": "USF Saúde Oeste",
+  "type": "USF-A | USF modelo A*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga II | 1031600",
+  "id": 16784,
+  "code_UF": 1031675,
+  "street": "Av. de Sequeira, 204",
+  "cp": "4705-629",
+  "locality": "Braga",
+  "tel": 253605580,
+  "fax": 253605581,
+  "email": "usf.saudeoeste@arsnorte.min-saude.pt",
+  "parish": "Sequeira",
+  "parishCode": 30354,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.541917,
+    "longitude": -8.428638
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c55"
+  },
+  "name": "USF Tadim",
+  "type": "USF-A | USF modelo A*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga II | 1031600",
+  "id": 16783,
+  "code_UF": 1031674,
+  "street": "Av. Domingos Braga da Cruz, 41",
+  "cp": "4705-671",
+  "locality": "Tadim",
+  "tel": 253671220,
+  "fax": 253339038,
+  "email": "usf.tadim@arsnorte.min-saude.pt",
+  "parish": "Tadim",
+  "parishCode": 30356,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.506611,
+    "longitude": -8.489863
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c56"
+  },
+  "name": "USF São Salvador",
+  "type": "USF-A | USF modelo A*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga II | 1031600",
+  "id": 28461,
+  "code_UF": 1031676,
+  "street": "Av. da Igreja, 37",
+  "cp": "4705-630",
+  "locality": "Tebosa",
+  "tel": 253605860,
+  "fax": 253605860,
+  "email": "usf.saosalvador@arsnorte.min-saude.pt",
+  "parish": "Tebosa",
+  "parishCode": 30357,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.482926,
+    "longitude": -8.483296
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c57"
+  },
+  "name": "CDP Braga",
+  "type": "CDP | Centro de Diagnóstico Pneumológico",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 16711,
+  "code_UF": 1030330,
+  "street": "Rua do Matadouro, 52",
+  "cp": "4700-035",
+  "locality": "Braga",
+  "tel": 253262544,
+  "fax": 253610133,
+  "email": "cdp.braga@arsnorte.min-saude.pt",
+  "parish": "Maximinos, Sé e Cividade",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547535,
+    "longitude": -8.429584
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c58"
+  },
+  "name": "Gabinete do Cidadão Braga",
+  "type": "A-Cid | Gabinete do Cidadão",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "",
+  "id": 20414,
+  "code_UF": 1000852,
+  "street": "Largo Paulo Orósio",
+  "cp": "4700-036",
+  "locality": "Braga",
+  "tel": 253209200,
+  "fax": "",
+  "email": "gc.braga@arsnorte.min-saude.pt",
+  "parish": "Maximinos, Sé e Cividade",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547574,
+    "longitude": -8.428412
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c59"
+  },
+  "name": "Órgãos de Administração e Fiscalização do aces Braga",
+  "type": "A-ADM | Órgãos de Administração e Fiscalização do aces*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "",
+  "id": 20415,
+  "code_UF": 1000851,
+  "street": "Largo Paulo Orósio",
+  "cp": "4700-036",
+  "locality": "Braga",
+  "tel": 253209200,
+  "fax": "",
+  "email": "aces.braga@arsnorte.min-saude.pt",
+  "parish": "Maximinos, Sé e Cividade",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547574,
+    "longitude": -8.428412
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c5a"
+  },
+  "name": "Serviço Atendimento Prolongado Braga",
+  "type": "SAP | Serviço de Atendimento Permanente ou Serviços Afins*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 5855,
+  "code_UF": 1030341,
+  "street": "Rua do Matadouro, 52",
+  "cp": "4700-035",
+  "locality": "Braga",
+  "tel": 253262544,
+  "fax": "",
+  "email": "sap.braga@arsnorte.min-saude.pt",
+  "parish": "Maximinos, Sé e Cividade",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547535,
+    "longitude": -8.429584
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c5b"
+  },
+  "name": "UCC Colina",
+  "type": "UCC | Unidade de Cuidados na Comunidade",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga II | 1031600",
+  "id": 16781,
+  "code_UF": 1031655,
+  "street": "Largo Paulo Orósio",
+  "cp": "4700-036",
+  "locality": "Braga",
+  "tel": 253209265,
+  "fax": 253209281,
+  "email": "ucc.colina@arsnorte.min-saude.pt",
+  "parish": "Maximinos, Sé e Cividade",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547574,
+    "longitude": -8.428412
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c5c"
+  },
+  "name": "UcsP Braga",
+  "type": "UcsP | Unidade de Cuidados de Saúde Personalizados",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 39274,
+  "code_UF": 1030307,
+  "street": "Rua do Matadouro, 52",
+  "cp": "4700-035",
+  "locality": "Braga",
+  "tel": 253262544,
+  "fax": 253610123,
+  "email": "ucsp.braga@arsnorte.min-saude.pt",
+  "parish": "União das Freguesias de Braga (Maximinos, Sé e Cividade)",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547535,
+    "longitude": -8.429584
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c5d"
+  },
+  "name": "URAP Braga",
+  "type": "URAP | Unidade de Recursos Assistenciais Partilhados",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "",
+  "id": 1865,
+  "code_UF": 1032001,
+  "street": "Largo Paulo Orósio",
+  "cp": "4700-036",
+  "locality": "Braga",
+  "tel": 253209235,
+  "fax": 253209231,
+  "email": "urap.braga@arsnorte.min-saude.pt",
+  "parish": "União das Freguesias de Braga (Maximinos, Sé e Cividade)",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547574,
+    "longitude": -8.428412
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c5e"
+  },
+  "name": "USF Manuel Rocha Peixoto",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga II | 1031600",
+  "id": 16785,
+  "code_UF": 1031671,
+  "street": "Largo Paulo Orósio, 2º",
+  "cp": "4700-036",
+  "locality": "Braga",
+  "tel": 253209240,
+  "fax": 253209241,
+  "email": "usf.mrpeixoto@arsnorte.min-saude.pt",
+  "parish": "Maximinos, Sé e Cividade",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547574,
+    "longitude": -8.428412
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c5f"
+  },
+  "name": "USF São Geraldo",
+  "type": "USF-A | USF modelo A*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 39226,
+  "code_UF": 1030378,
+  "street": "Largo Paulo Orósio",
+  "cp": "4700-036",
+  "locality": "Braga",
+  "tel": 253209230,
+  "fax": 253209231,
+  "email": "usf.saogeraldo@arsnorte.min-saude.pt",
+  "parish": "Maximinos, Sé e Cividade",
+  "parishCode": 30364,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.547574,
+    "longitude": -8.428412
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c60"
+  },
+  "name": "USF do Minho",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 39238,
+  "code_UF": 1030370,
+  "street": "Praça Cândido Costa Pires, piso 2",
+  "cp": "4715-402",
+  "locality": "Braga",
+  "tel": 253201540,
+  "fax": 253201541,
+  "email": "usf.minho@arsnorte.min-saude.pt",
+  "parish": "São José de São Lázaro e São João do Souto)",
+  "parishCode": 30365,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.546619,
+    "longitude": -8.41496
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c61"
+  },
+  "name": "USF Dr. Pelaez Carones",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga III | 1031500",
+  "id": 39260,
+  "code_UF": 1031571,
+  "street": "Praça Cândido Costa Pires, r/c",
+  "cp": "4715-402",
+  "locality": "Braga",
+  "tel": 253201510,
+  "fax": 253201511,
+  "email": "usf.pelaezcarones@arsnorte.min-saude.pt",
+  "parish": "São José de São Lázaro e São João do Souto",
+  "parishCode": 30365,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.546619,
+    "longitude": -8.41496
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c62"
+  },
+  "name": "USF Salutis",
+  "type": "USF-A | USF modelo A*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 20320,
+  "code_UF": 1030376,
+  "street": "Praça Cândido Costa Pires, r/c",
+  "cp": "4715-402",
+  "locality": "Braga",
+  "tel": 253201520,
+  "fax": 253201521,
+  "email": "usf.salutis@arsnorte.min-saude.pt",
+  "parish": "São José de São Lázaro e São João do Souto",
+  "parishCode": 30365,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.546619,
+    "longitude": -8.41496
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c63"
+  },
+  "name": "USF Sanus Carandá",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 27538,
+  "code_UF": 1030374,
+  "street": "Praça Cândido Costa Pires, piso 1",
+  "cp": "4715-402",
+  "locality": "Braga",
+  "tel": 253201530,
+  "fax": 253201531,
+  "email": "usf.sanuscaranda@arsnorte.min-saude.pt",
+  "parish": "São José de São Lázaro e São João do Souto)",
+  "parishCode": 30365,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.546619,
+    "longitude": -8.41496
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c64"
+  },
+  "name": "USF São Lourenço",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga II | 1031600",
+  "id": 20240,
+  "code_UF": 1031673,
+  "street": "Av. 17 de Dezembro, 1 - Celeirós",
+  "cp": "4705-409",
+  "locality": "Braga",
+  "tel": 253605150,
+  "fax": 253605151,
+  "email": "usf.slourenco@arsnorte.min-saude.pt",
+  "parish": "União das Freguesias de Celeirós, Aveleda e Vimieiro",
+  "parishCode": 30367,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.514108,
+    "longitude": -8.456671
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c65"
+  },
+  "name": "USF Bracara Augusta",
+  "type": "USF-B | USF modelo B*",
+  "ars": "ars Norte",
+  "acesCode": 10008,
+  "cs": "Centro de Saúde Braga I | 1030300",
+  "id": 16719,
+  "code_UF": 1030373,
+  "street": "Praça General Humberto Delgado 22",
+  "cp": "4715-115",
+  "locality": "Braga",
+  "tel": 253200000,
+  "fax": 253200001,
+  "email": "usf.bracaraaugusta@arsnorte.min-saude.pt",
+  "parish": "União das Freguesias de Nogueira, Fraião e Lamaçães",
+  "parishCode": 30377,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.550074,
+    "longitude": -8.386712
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c66"
+  },
+  "name": "UcsP Apúlia / Fão",
+  "type": "UcsP | Unidade de Cuidados de Saúde Personalizados",
+  "ars": "ars Norte",
+  "acesCode": 10007,
+  "cs": "Centro de Saúde Esposende | 1030600",
+  "id": 5361,
+  "code_UF": 1030605,
+  "street": "Travessa da Areia",
+  "cp": "4740-371",
+  "locality": "Fão",
+  "tel": 253989310,
+  "fax": 253989319,
+  "email": "ucsp.fao@arsnorte.min-saude.pt",
+  "parish": "União das Freguesias de Apúlia e Fão",
+  "parishCode": 30616,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.485715,
+    "longitude": -8.76714
+  }
+},{
+  "_id": {
+    "$oid": "639236e3a4ac29744e939c67"
+  },
+  "name": "UcsP Dr. Vale Lima",
+  "type": "UcsP | Unidade de Cuidados de Saúde Personalizados",
+  "ars": "ars Norte",
+  "acesCode": 10007,
+  "cs": "Centro de Saúde Barcelos | 1030200",
+  "id": 5357,
+  "code_UF": 1030210,
+  "street": "Alameda do Passal, 30",
+  "cp": "4750-792",
+  "locality": "Vila Cova",
+  "tel": 253860000,
+  "fax": 253860001,
+  "email": "ucsp.drvlima@arsnorte.min-saude.pt",
+  "parish": "União das Freguesias de Vila Cova e Feitos",
+  "parishCode": 30617,
+  "district": "Braga",
+  "localization": {
+    "latitude": 41.536401,
+    "longitude": -8.708194
+  }
+}]

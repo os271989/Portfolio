@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Oscar",
+    "id": "1234",
+    "subscribed": ["Eletronica", "Medecina"]
+  },
+
+  {
+    "name": "Rui",
+    "id": "1234",
+    "subscribed": ["Comunicação", "Medecina", "Redes"]
+  },
+
+  {
+    "name": "Elson",
+    "id": "1234",
+    "subscribed": ["Eletronica", "Programação"]
+  },
+
+  {
+    "name": "Sergio",
+    "id": "1234",
+    "subscribed": ["Programação", "Redes", "Base de Dados"]
+  }
+]

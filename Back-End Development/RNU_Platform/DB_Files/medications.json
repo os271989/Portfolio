@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "63ae36934e5491c74a93f263"
+  },
+  "MedicationID": 3001,
+  "description": "Doentes crónicos com medicação especial"
+},{
+  "_id": {
+    "$oid": "63ae36ae4e5491c74a93f264"
+  },
+  "MedicationID": 3101,
+  "description": "Doentes profissionais"
+},{
+  "_id": {
+    "$oid": "63ae36c04e5491c74a93f265"
+  },
+  "MedicationID": 3201,
+  "description": "Objetores de Consciência e familiares"
+},{
+  "_id": {
+    "$oid": "63ae36d14e5491c74a93f266"
+  },
+  "MedicationID": 3301,
+  "description": " Pensionistas Ind. Lanifícios – F.E.Seg. Social"
+},{
+  "_id": {
+    "$oid": "63ae36e44e5491c74a93f267"
+  },
+  "MedicationID": 3011,
+  "description": "Doentes Crónicos com guia"
+}]
